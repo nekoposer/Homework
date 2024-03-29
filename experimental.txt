@@ -1,3 +1,0 @@
-.gitignore
-homework.txt
-log.log
